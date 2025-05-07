@@ -1,5 +1,5 @@
 baseURL = "https://raaican.github.io/note/"
 languageCode = "en-us"
-title = "My Hugo Site"
+title = "raican's note"
 theme = "ananke"
 
