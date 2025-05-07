@@ -23,3 +23,7 @@ title = 'Schedule I Recipes'
 - Banana
 - Viagra
 - Flu Medicine
+
+## Cocka (Cocaine)
+- Addy
+- Horse Semen
