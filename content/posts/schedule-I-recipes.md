@@ -4,26 +4,21 @@ draft = false
 title = 'Schedule I Recipes'
 +++
 
-# Recipes
+# Recipes and Prices
 
 ## Galantis (Grandaddy Purple)
+**@$190** 
 - Addy
 - Horse Semen
 - Iodine
 
 ## Armettha (Meth)
+**@$290** 
 - Addy
 - Horse Semen
 - Addy
 
-## White Ghost (OG Kush)
-- Donut
-- Mouth Wash
-- Cuke
-- Banana
-- Viagra
-- Flu Medicine
-
 ## Cocka (Cocaine)
+**@$450** 
 - Addy
 - Horse Semen
