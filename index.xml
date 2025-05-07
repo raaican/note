@@ -1,1 +1,75 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Homepage on My Hugo Site</title><link>https://raaican.github.io/note/</link><description>Recent content in Homepage on My Hugo Site</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 07 May 2025 13:26:57 +0700</lastBuildDate><atom:link href="https://raaican.github.io/note/index.xml" rel="self" type="application/rss+xml"/><item><title>Hello</title><link>https://raaican.github.io/note/posts/hello/</link><pubDate>Wed, 07 May 2025 13:26:57 +0700</pubDate><guid>https://raaican.github.io/note/posts/hello/</guid><description>&lt;h1 id="hello-world">Hello World&lt;/h1></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Homepage on My Hugo Site</title><link>https://raaican.github.io/note/</link><description>Recent content in Homepage on My Hugo Site</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 07 May 2025 13:26:57 +0700</lastBuildDate><atom:link href="https://raaican.github.io/note/index.xml" rel="self" type="application/rss+xml"/><item><title>Hello</title><link>https://raaican.github.io/note/posts/hello/</link><pubDate>Wed, 07 May 2025 13:26:57 +0700</pubDate><guid>https://raaican.github.io/note/posts/hello/</guid><description>&lt;h1 id="hello-world">Hello World&lt;/h1></description></item><item><title>Building Gallagher</title><link>https://raaican.github.io/note/posts/building-gallagher/</link><pubDate>Sat, 03 May 2025 03:48:14 +0700</pubDate><guid>https://raaican.github.io/note/posts/building-gallagher/</guid><description>&lt;h2 id="lightcones">Lightcones&lt;/h2>
+&lt;ol>
+&lt;li>Scent Alone Stays True (5*)&lt;/li>
+&lt;li>Quid Pro Quo (4*)&lt;/li>
+&lt;li>Post-Op Conversation (4*)&lt;/li>
+&lt;/ol>
+&lt;h2 id="relic">Relic&lt;/h2>
+&lt;p>4 Pieces of &lt;strong>Messenger Traversing Hackerspace&lt;/strong>&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>:&lt;/p>
+&lt;ul>
+&lt;li>Outgoing Healing&lt;/li>
+&lt;li>Speed&lt;/li>
+&lt;/ul>
+&lt;h2 id="planetary">Planetary&lt;/h2>
+&lt;p>Forge of the Kalpagni Lantern&lt;sup id="fnref1:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>:&lt;/p>
+&lt;ul>
+&lt;li>HP% &amp;gt;= DEF%&lt;/li>
+&lt;li>Energy Regen Rate&lt;/li>
+&lt;/ul>
+&lt;h3 id="trace-priority">Trace Priority&lt;/h3>
+&lt;ul>
+&lt;li>Talent &amp;gt; Skill &amp;gt; Basic &amp;gt; Ultimate&lt;/li>
+&lt;/ul>
+&lt;h3 id="substats">Substats&lt;/h3>
+&lt;ul>
+&lt;li>SPD (as much as possible) &amp;gt; Break Effect % (up to 150%) &amp;gt; Effect RES% &amp;gt; HP% = DEF%&lt;/li>
+&lt;/ul>
+&lt;div class="footnotes" role="doc-endnotes">
+&lt;hr>
+&lt;ol>
+&lt;li id="fn:1">
+&lt;p>&lt;a href="https://www.prydwen.gg/star-rail/characters/gallagher">Prydwen&lt;/a>&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&amp;#160;&lt;a href="#fnref1:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;/div></description></item><item><title>Schedule I Recipes</title><link>https://raaican.github.io/note/posts/schedule-i-recipes/</link><pubDate>Tue, 22 Apr 2025 23:29:04 +0700</pubDate><guid>https://raaican.github.io/note/posts/schedule-i-recipes/</guid><description>&lt;h1 id="recipes">Recipes&lt;/h1>
+&lt;h2 id="galantis-grandaddy-purple">Galantis (Grandaddy Purple)&lt;/h2>
+&lt;ul>
+&lt;li>Addy&lt;/li>
+&lt;li>Horse Semen&lt;/li>
+&lt;li>Iodine&lt;/li>
+&lt;/ul>
+&lt;h2 id="armettha-meth">Armettha (Meth)&lt;/h2>
+&lt;ul>
+&lt;li>Addy&lt;/li>
+&lt;li>Horse Semen&lt;/li>
+&lt;li>Addy&lt;/li>
+&lt;/ul>
+&lt;h2 id="white-ghost-og-kush">White Ghost (OG Kush)&lt;/h2>
+&lt;ul>
+&lt;li>Donut&lt;/li>
+&lt;li>Mouth Wash&lt;/li>
+&lt;li>Cuke&lt;/li>
+&lt;li>Banana&lt;/li>
+&lt;li>Viagra&lt;/li>
+&lt;li>Flu Medicine&lt;/li>
+&lt;/ul></description></item><item><title>Building a Webhook Script</title><link>https://raaican.github.io/note/posts/building-a-webhook-script/</link><pubDate>Wed, 26 Mar 2025 21:58:27 +0700</pubDate><guid>https://raaican.github.io/note/posts/building-a-webhook-script/</guid><description>&lt;h2 id="progress">Progress&lt;/h2>
+&lt;p>Currently working on a Bash script to expedite sending a webhook to a Discord server. This saves so much time (5 - 10 minutes) to send a webhook message.&lt;/p>
+&lt;h2 id="features">Features&lt;/h2>
+&lt;ul>
+&lt;li>Interactive Bash script;&lt;/li>
+&lt;li>Status of &lt;em>sent&lt;/em> messages;&lt;/li>
+&lt;li>Logging;&lt;/li>
+&lt;li>Exit command (/exit);&lt;/li>
+&lt;li>Embed command (/embed);&lt;/li>
+&lt;/ul>
+&lt;h2 id="to-do">To do&lt;/h2>
+&lt;ul>
+&lt;li>Custom webhook address input;&lt;/li>
+&lt;li>Config file;&lt;/li>
+&lt;li>Webhook address selector. Configurable via config file;&lt;/li>
+&lt;li>Settings. Such as adding a new webhook address, etc;&lt;/li>
+&lt;li>Change to a different language(?), for configurable flexibility;&lt;/li>
+&lt;li>Look for a config file format. Maybe TOML;&lt;/li>
+&lt;/ul>
+&lt;h3 id="project-repository">Project Repository&lt;/h3>
+&lt;p>&lt;a href="https://github.com/raaican/wehbook">Webhook GitHub Repository&lt;/a>&lt;/p></description></item></channel></rss>
