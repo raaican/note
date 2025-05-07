@@ -1,5 +1,5 @@
 ---
-title: "Home"
+title: "Homepage"
 ---
 
-Welcome to my Hugo site!
+A collection of raican's note(s)

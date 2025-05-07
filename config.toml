@@ -1,2 +1,3 @@
 baseURL = "https://raaican.github.io/note/"
 theme = "ananke"
+title = "raican's note"
