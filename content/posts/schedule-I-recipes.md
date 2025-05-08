@@ -12,7 +12,7 @@ title = 'Schedule I Recipes'
 - Horse Semen
 - Iodine
 
-## Armettha (Meth)
+## Pinkman (Meth)
 **@$290** 
 - Addy
 - Horse Semen
@@ -22,3 +22,9 @@ title = 'Schedule I Recipes'
 **@$450** 
 - Addy
 - Horse Semen
+
+## Cocka v2
+@$420
+- Addy
+- Horse Semen
+- Viagra
