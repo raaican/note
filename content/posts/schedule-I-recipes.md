@@ -24,7 +24,7 @@ title = 'Schedule I Recipes'
 - Horse Semen
 
 ## Cocka v2
-@$420
+@$620
 - Addy
 - Horse Semen
 - Viagra
