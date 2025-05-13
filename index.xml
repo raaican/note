@@ -1,4 +1,38 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Homepage on raican's note</title><link>https://raaican.github.io/note/</link><description>Recent content in Homepage on raican's note</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 03 May 2025 03:48:14 +0700</lastBuildDate><atom:link href="https://raaican.github.io/note/index.xml" rel="self" type="application/rss+xml"/><item><title>Building Gallagher</title><link>https://raaican.github.io/note/posts/building-gallagher/</link><pubDate>Sat, 03 May 2025 03:48:14 +0700</pubDate><guid>https://raaican.github.io/note/posts/building-gallagher/</guid><description>&lt;h2 id="lightcones">Lightcones&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Homepage on raican's note</title><link>https://raaican.github.io/note/</link><description>Recent content in Homepage on raican's note</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 13 May 2025 13:20:23 +0700</lastBuildDate><atom:link href="https://raaican.github.io/note/index.xml" rel="self" type="application/rss+xml"/><item><title>Building Anaxa</title><link>https://raaican.github.io/note/posts/building-anaxa/</link><pubDate>Tue, 13 May 2025 13:20:23 +0700</pubDate><guid>https://raaican.github.io/note/posts/building-anaxa/</guid><description>&lt;h2 id="relic-set">Relic Set&lt;/h2>
+&lt;ul>
+&lt;li>Scholar Lost in Erudition (4pc)&lt;/li>
+&lt;/ul>
+&lt;h2 id="planetary-set">Planetary Set&lt;/h2>
+&lt;ul>
+&lt;li>Izumo Gensei and Takama Divine Realm&lt;/li>
+&lt;/ul>
+&lt;h2 id="stats">Stats&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Body&lt;/th>
+ &lt;th>Feet&lt;/th>
+ &lt;th>Planar Sphere&lt;/th>
+ &lt;th>Link Rope&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>Crit Rate &amp;gt; Crit DMG&lt;/td>
+ &lt;td>Speed = ATK%&lt;/td>
+ &lt;td>Ice DMG &amp;gt; ATK%&lt;/td>
+ &lt;td>ATK% &amp;gt;= Energy Regen Rate&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;p>&lt;strong>Substats:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>SPD(Until Desired Breakpoint) &amp;gt; Crit Rate &amp;gt; Crit DMG &amp;gt; ATK%&lt;/li>
+&lt;/ul>
+&lt;h2 id="traces-priority">Traces Priority&lt;/h2>
+&lt;ul>
+&lt;li>Talent &amp;gt;= Skill = Ultimate &amp;gt; Basic&lt;/li>
+&lt;/ul></description></item><item><title>Building Gallagher</title><link>https://raaican.github.io/note/posts/building-gallagher/</link><pubDate>Sat, 03 May 2025 03:48:14 +0700</pubDate><guid>https://raaican.github.io/note/posts/building-gallagher/</guid><description>&lt;h2 id="lightcones">Lightcones&lt;/h2>
 &lt;ol>
 &lt;li>Scent Alone Stays True (5*)&lt;/li>
 &lt;li>Quid Pro Quo (4*)&lt;/li>
