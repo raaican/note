@@ -14,9 +14,10 @@ title = 'Building Anaxa'
 
 ## Stats
 
-| Body | Feet | Planar Sphere | Link Rope |
-| ------------- | -------------- | -------------- | -------------- |
+|          Body        |     Feet     |  Planar Sphere |         Link Rope         |
+| -------------------- | ------------ | -------------- | ------------------------- |
 | Crit Rate > Crit DMG | Speed = ATK% | Ice DMG > ATK% | ATK% >= Energy Regen Rate |
+
 
 **Substats:** 
 - SPD(Until Desired Breakpoint) > Crit Rate > Crit DMG > ATK%
