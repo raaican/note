@@ -92,6 +92,48 @@
 &lt;li>Addy&lt;/li>
 &lt;li>Horse Semen&lt;/li>
 &lt;li>Viagra&lt;/li>
+&lt;/ul>
+&lt;h1 id="customer-mix">Customer Mix&lt;/h1>
+&lt;h2 id="greg-figgle-cocka">Greg Figgle (COcka)&lt;/h2>
+&lt;ul>
+&lt;li>Gasoline&lt;/li>
+&lt;li>Viagra&lt;/li>
+&lt;li>Cuke&lt;/li>
+&lt;li>Gasoline&lt;/li>
+&lt;/ul>
+&lt;h2 id="philip-wentworth-meth">Philip Wentworth (Meth)&lt;/h2>
+&lt;ul>
+&lt;li>Horse Semen&lt;/li>
+&lt;li>Addy&lt;/li>
+&lt;li>Gasoline&lt;/li>
+&lt;li>Banana&lt;/li>
+&lt;li>Energy Drink&lt;/li>
+&lt;li>Horse Semen&lt;/li>
+&lt;li>Mega Bean&lt;/li>
+&lt;/ul>
+&lt;h2 id="genghis-barn-cocka">Genghis Barn (Cocka)&lt;/h2>
+&lt;ul>
+&lt;li>Cuke&lt;/li>
+&lt;li>Banana&lt;/li>
+&lt;li>Horse Semen&lt;/li>
+&lt;li>Energy Drink&lt;/li>
+&lt;li>Banana&lt;/li>
+&lt;/ul>
+&lt;h2 id="macro-barone-cocka">Macro Barone (Cocka)&lt;/h2>
+&lt;ul>
+&lt;li>Paracetamol&lt;/li>
+&lt;li>Horse Semen&lt;/li>
+&lt;li>Banana&lt;/li>
+&lt;li>Horse Semen&lt;/li>
+&lt;/ul>
+&lt;h2 id="mac-cooper">Mac Cooper&lt;/h2>
+&lt;ul>
+&lt;li>Cuke&lt;/li>
+&lt;li>Banana&lt;/li>
+&lt;li>Horse Semen&lt;/li>
+&lt;li>Gasoline&lt;/li>
+&lt;li>Banana&lt;/li>
+&lt;li>Chili&lt;/li>
 &lt;/ul></description></item><item><title>Building a Webhook Script</title><link>https://raaican.github.io/note/posts/building-a-webhook-script/</link><pubDate>Wed, 26 Mar 2025 21:58:27 +0700</pubDate><guid>https://raaican.github.io/note/posts/building-a-webhook-script/</guid><description>&lt;h2 id="progress">Progress&lt;/h2>
 &lt;p>Currently working on a Bash script to expedite sending a webhook to a Discord server. This saves so much time (5 - 10 minutes) to send a webhook message.&lt;/p>
 &lt;h2 id="features">Features&lt;/h2>
