@@ -28,3 +28,42 @@ title = 'Schedule I Recipes'
 - Addy
 - Horse Semen
 - Viagra
+
+
+# Customer Mix
+
+## Greg Figgle (COcka)
+- Gasoline
+- Viagra
+- Cuke
+- Gasoline
+
+## Philip Wentworth (Meth)
+- Horse Semen
+- Addy
+- Gasoline
+- Banana
+- Energy Drink
+- Horse Semen
+- Mega Bean
+
+## Genghis Barn (Cocka)
+- Cuke
+- Banana
+- Horse Semen
+- Energy Drink
+- Banana
+
+## Macro Barone (Cocka)
+- Paracetamol
+- Horse Semen
+- Banana
+- Horse Semen
+
+## Mac Cooper
+- Cuke
+- Banana
+- Horse Semen
+- Gasoline
+- Banana
+- Chili
