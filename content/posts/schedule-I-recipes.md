@@ -60,7 +60,7 @@ title = 'Schedule I Recipes'
 - Banana
 - Horse Semen
 
-## Mac Cooper
+## Mac Cooper (Cocka)
 - Cuke
 - Banana
 - Horse Semen
