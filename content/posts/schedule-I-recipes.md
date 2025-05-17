@@ -32,38 +32,15 @@ title = 'Schedule I Recipes'
 
 # Customer Mix
 
-## Greg Figgle (COcka)
+## Hank Stevenson
+- Flu Medicine
+- Energy Drink
+- Motor Oil
 - Gasoline
 - Viagra
-- Cuke
-- Gasoline
 
-## Philip Wentworth (Meth)
-- Horse Semen
-- Addy
-- Gasoline
-- Banana
-- Energy Drink
-- Horse Semen
-- Mega Bean
-
-## Genghis Barn (Cocka)
-- Cuke
-- Banana
-- Horse Semen
-- Energy Drink
-- Banana
-
-## Macro Barone (Cocka)
-- Paracetamol
-- Horse Semen
-- Banana
-- Horse Semen
-
-## Mac Cooper (Cocka)
-- Cuke
-- Banana
-- Horse Semen
-- Gasoline
-- Banana
-- Chili
+## Jeremy Wilkinson
+- Donut
+- Motor Oil
+- Mouth Wash
+- Donut
