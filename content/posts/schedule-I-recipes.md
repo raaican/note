@@ -44,3 +44,25 @@ title = 'Schedule I Recipes'
 - Motor Oil
 - Mouth Wash
 - Donut
+
+## Harold Colt
+- Iodine
+- Mega Bean
+- Banana
+- Chili
+
+## Dennis Kennedy
+- Cuke
+- Mega Bean
+- Battery
+- Energy Drink
+- Banana
+
+## Jack Knight
+- Mega Bean
+- Cuke
+- Battery
+- Energy Drink
+- Banana
+- Energy Drink
+- Addy
